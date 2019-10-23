@@ -2,7 +2,6 @@
   "name": "crwn-clothing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nickclick7.github.io/crwn-clothing",
   "dependencies": {
     "firebase": "^6.5.0",
     "gh-pages": "^2.1.1",
