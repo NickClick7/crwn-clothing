@@ -14,7 +14,7 @@ import App from './App';
 
 ReactDOM.render(
     <Provider store={store}>
-        <BrowserRouter>
+        <BrowserRouter basename="/crwn-clothing">
             <PersistGate persistor={persistor}>
                 <App />
             </PersistGate>   
